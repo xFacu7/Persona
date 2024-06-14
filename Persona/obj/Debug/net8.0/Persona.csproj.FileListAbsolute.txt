@@ -1,0 +1,14 @@
+/home/et12alumno/5°17/Persona/obj/Debug/net8.0/Persona.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/5°17/Persona/obj/Debug/net8.0/Persona.AssemblyInfoInputs.cache
+/home/et12alumno/5°17/Persona/obj/Debug/net8.0/Persona.AssemblyInfo.cs
+/home/et12alumno/5°17/Persona/obj/Debug/net8.0/Persona.csproj.CoreCompileInputs.cache
+/home/et12alumno/5°17/Persona/bin/Debug/net8.0/Persona
+/home/et12alumno/5°17/Persona/bin/Debug/net8.0/Persona.deps.json
+/home/et12alumno/5°17/Persona/bin/Debug/net8.0/Persona.runtimeconfig.json
+/home/et12alumno/5°17/Persona/bin/Debug/net8.0/Persona.dll
+/home/et12alumno/5°17/Persona/bin/Debug/net8.0/Persona.pdb
+/home/et12alumno/5°17/Persona/obj/Debug/net8.0/Persona.dll
+/home/et12alumno/5°17/Persona/obj/Debug/net8.0/refint/Persona.dll
+/home/et12alumno/5°17/Persona/obj/Debug/net8.0/Persona.pdb
+/home/et12alumno/5°17/Persona/obj/Debug/net8.0/Persona.genruntimeconfig.cache
+/home/et12alumno/5°17/Persona/obj/Debug/net8.0/ref/Persona.dll
